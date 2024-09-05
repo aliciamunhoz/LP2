@@ -1,0 +1,14 @@
+C:\Users\Cauã\Desktop\App Python\PTesteLoops\PTesteLoops\bin\Debug\PTesteLoops.exe.config
+C:\Users\Cauã\Desktop\App Python\PTesteLoops\PTesteLoops\bin\Debug\PTesteLoops.exe
+C:\Users\Cauã\Desktop\App Python\PTesteLoops\PTesteLoops\bin\Debug\PTesteLoops.pdb
+C:\Users\Cauã\Desktop\App Python\PTesteLoops\PTesteLoops\obj\Debug\PTesteLoops.csproj.AssemblyReference.cache
+C:\Users\Cauã\Desktop\App Python\PTesteLoops\PTesteLoops\obj\Debug\PTesteLoops.Form1.resources
+C:\Users\Cauã\Desktop\App Python\PTesteLoops\PTesteLoops\obj\Debug\PTesteLoops.frmExercicio1.resources
+C:\Users\Cauã\Desktop\App Python\PTesteLoops\PTesteLoops\obj\Debug\PTesteLoops.Properties.Resources.resources
+C:\Users\Cauã\Desktop\App Python\PTesteLoops\PTesteLoops\obj\Debug\PTesteLoops.csproj.GenerateResource.cache
+C:\Users\Cauã\Desktop\App Python\PTesteLoops\PTesteLoops\obj\Debug\PTesteLoops.csproj.CoreCompileInputs.cache
+C:\Users\Cauã\Desktop\App Python\PTesteLoops\PTesteLoops\obj\Debug\PTesteLoops.exe
+C:\Users\Cauã\Desktop\App Python\PTesteLoops\PTesteLoops\obj\Debug\PTesteLoops.pdb
+C:\Users\Cauã\Desktop\App Python\PTesteLoops\PTesteLoops\obj\Debug\PTesteLoops.frmExercicio2.resources
+C:\Users\Cauã\Desktop\App Python\PTesteLoops\PTesteLoops\obj\Debug\PTesteLoops.frmExercicio3.resources
+C:\Users\Cauã\Desktop\App Python\PTesteLoops\PTesteLoops\obj\Debug\PTesteLoops.frmExercicio4.resources

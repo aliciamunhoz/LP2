@@ -1,0 +1,12 @@
+C:\Users\alici\source\repos\PClasses\PClasses\obj\Debug\PClasses.csproj.AssemblyReference.cache
+C:\Users\alici\source\repos\PClasses\PClasses\obj\Debug\PClasses.Form1.resources
+C:\Users\alici\source\repos\PClasses\PClasses\obj\Debug\PClasses.frm_mensalista.resources
+C:\Users\alici\source\repos\PClasses\PClasses\obj\Debug\PClasses.Properties.Resources.resources
+C:\Users\alici\source\repos\PClasses\PClasses\obj\Debug\PClasses.csproj.GenerateResource.cache
+C:\Users\alici\source\repos\PClasses\PClasses\obj\Debug\PClasses.csproj.CoreCompileInputs.cache
+C:\Users\alici\source\repos\PClasses\PClasses\bin\Debug\PClasses.exe.config
+C:\Users\alici\source\repos\PClasses\PClasses\bin\Debug\PClasses.exe
+C:\Users\alici\source\repos\PClasses\PClasses\bin\Debug\PClasses.pdb
+C:\Users\alici\source\repos\PClasses\PClasses\obj\Debug\PClasses.exe
+C:\Users\alici\source\repos\PClasses\PClasses\obj\Debug\PClasses.pdb
+C:\Users\alici\source\repos\PClasses\PClasses\obj\Debug\PClasses.frm_horista.resources

@@ -1,0 +1,10 @@
+C:\Users\alici\source\repos\PSalario\PSalario\bin\Debug\PSalario.exe.config
+C:\Users\alici\source\repos\PSalario\PSalario\bin\Debug\PSalario.exe
+C:\Users\alici\source\repos\PSalario\PSalario\bin\Debug\PSalario.pdb
+C:\Users\alici\source\repos\PSalario\PSalario\obj\Debug\PSalario.csproj.AssemblyReference.cache
+C:\Users\alici\source\repos\PSalario\PSalario\obj\Debug\PSalario.frm_salario.resources
+C:\Users\alici\source\repos\PSalario\PSalario\obj\Debug\PSalario.Properties.Resources.resources
+C:\Users\alici\source\repos\PSalario\PSalario\obj\Debug\PSalario.csproj.GenerateResource.cache
+C:\Users\alici\source\repos\PSalario\PSalario\obj\Debug\PSalario.csproj.CoreCompileInputs.cache
+C:\Users\alici\source\repos\PSalario\PSalario\obj\Debug\PSalario.exe
+C:\Users\alici\source\repos\PSalario\PSalario\obj\Debug\PSalario.pdb
